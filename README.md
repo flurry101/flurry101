@@ -4,6 +4,11 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center"><b>CS Undergrad here.</b></h3>
 
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/flurry101/count.svg">  
+
+counting of visitors to this page in this section started from Oct 10, 2024
+
 ## 🚀 Interests:<br>
 - 🔭 Currently exploring a wide-range of topics within computer science and engineering. 
 - 🛠️ Driving forward personal project initiatives with fervor and enthusiasm.
@@ -33,9 +38,7 @@ Design                 | [![canva](https://camo.githubusercontent.com/6510954745
 While I'm not coding, I'm most likely found doing math, reading, or, on rare occasions,  even sketching, or writing poetry.
 
 <details>
-<summary><h1>📊 Stats:</h1></summary>
-<br>
-
+<summary><h2>📊 Stats:</h2></summary>
 <table>
   <tr>
     <td>
