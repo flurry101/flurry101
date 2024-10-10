@@ -29,7 +29,11 @@ Design                 | [![canva](https://camo.githubusercontent.com/6510954745
 - 🥲 Looking forward to connect... for hackathons, coding contests etc.
 - 🤝 I'm open to collaboration on exciting projects/ open-source (particularly, with those of **python**), and look forward to learn more.
 
-## 📊 Stats:
+
+<details>
+<summary>📊 Stats:</summary>
+<br>
+
 <table>
   <tr>
     <td>
