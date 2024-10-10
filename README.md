@@ -7,7 +7,7 @@
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/flurry101/count.svg">  
 
-counting of visitors to this page in this section started from Oct 10, 2024
+`Started from Oct 10, 2024`
 
 ## 🚀 Interests:<br>
 - 🔭 Currently exploring a wide-range of topics within computer science and engineering. 
