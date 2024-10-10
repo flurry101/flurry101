@@ -29,9 +29,11 @@ Design                 | [![canva](https://camo.githubusercontent.com/6510954745
 - 🥲 Looking forward to connect... for hackathons, coding contests etc.
 - 🤝 I'm open to collaboration on exciting projects/ open-source (particularly, with those of **python**), and look forward to learn more.
 
+## ⚡ Fun fact: 
+While I'm not coding, I'm most likely found doing math, reading, or, on rare occasions,  even sketching, or writing poetry.
 
 <details>
-<summary>📊 Stats:</summary>
+<summary><h1>📊 Stats:</h1></summary>
 <br>
 
 <table>
@@ -52,5 +54,4 @@ Design                 | [![canva](https://camo.githubusercontent.com/6510954745
   </tr>
 </table>
 
-## ⚡ Fun fact: 
-While I'm not coding, I'm most likely found doing math, reading, or, on rare occasions,  even sketching, or writing poetry.
+
