@@ -57,4 +57,4 @@ Design                 | [![canva](https://camo.githubusercontent.com/6510954745
 While I'm not coding, I'm most likely found doing math, reading, or, on rare occasions,  even sketching, or writing poetry.
 
 
-![](//flurry101/graphics.svg)
+![down](https://github.com/flurry101/flurry101/blob/main/graphics.svg)
