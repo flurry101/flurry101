@@ -31,7 +31,7 @@ Platforms              | ![Visual Studio Code](https://img.shields.io/badge/Visu
 ![mail](https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465) 
 [![discord](https://camo.githubusercontent.com/62d3d35241760cf174631c4e6b5f4503c0a6b34640fd306e36a829ab5ec47b14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465)](https://discord.com/users/874604486230966293)
 
-##  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Collaboration:  <br>
+##  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" /> Collaboration:  <br>
 - 👀 I'm a beginner at coding & programming (currently), so I'd gladly appreciate help & guidance anytime.
 - 🥲 Looking forward to connect... for hackathons, coding contests etc.
 - 👩🏽‍🤝‍👩🏾 I'm open to collaboration on exciting projects/ open-source (particularly, with those of **python**), and look forward to learn more.
