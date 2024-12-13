@@ -15,7 +15,7 @@ $ echo "Problem-Solving and Building cool projects"
 ### 🚀 Interests <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="20" />
 ```bash
 $ explore "Full-stack development, Theoretical Computer Science, Cyber Security "
-$ hobby "Reading 📚, Sketching 🎨, Poetry ✍️"
+$ hobby "Reading 📚, Sketching 🎨, Word ✍️"
 ```
 
 ### 🔧 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="25" />
