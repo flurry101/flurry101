@@ -1,6 +1,6 @@
 # Hello, World! 👨‍💻🚀
 
-> **CS Undergrad | Coder | Problem Solver**
+> **CS Undergrad | Coder | Aspiring Problem Solver**
 
 ![Profile Views](https://profile-counter.glitch.me/flurry101/count.svg)
 
@@ -8,7 +8,7 @@
 
 ### 💻 What am I up to?
 ```bash
-$ echo "Python, C, Java" 
+$ echo "Python, C" 
 $ echo "Problem-Solving and Building cool projects"
 ```
 
