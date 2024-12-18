@@ -8,7 +8,7 @@
 
 ### 💻 What am I up to?
 ```bash
-$ echo "Python, C" 
+$ echo "Python, JS and C" 
 $ echo "Problem-Solving and Building cool projects"
 ```
 
@@ -19,20 +19,21 @@ $ hobby "Read 📚, Sketch 🎨, Words ✍️"
 ```
 
 ### 🔧 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="25" />
-```bash
-$ lang="Python, C, Java"
-$ vcs="Git"
-$ platform="VS Code"
-$ db="MySQL"
-$ tools="LaTeX, Markdown"
-```
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,html,css,bootstrap" /> <img src="https://skillicons.dev/icons?i=git,github" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
 
-### 📊 GitHub Stats: 
+### 📊 Stats: 
 ```bash
-$ github-profile-stats --user=flurry101 --theme=radical
+$ github-profile-stats --user=flurry101 
 ```
+<p align="center">  
+<img src="https://github-profile-trophy.vercel.app/?username=flurry101&theme=radical&hide_border=true&card_width=705"></p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flurry101&theme=cobalt"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flurry101&theme=nightowl"></td>
+  </tr>
+</table>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=flurry101&theme=radical&hide_border=true&card_width=705)
 
 ### 📫 Let's Connect @[GitHub](https://github.com/flurry101) <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="15" /> @[Email](mailto:m3l0dy.144@gmail.com) 
 
