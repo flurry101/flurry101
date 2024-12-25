@@ -14,12 +14,12 @@ $ echo "Problem-solving and building cool projects"
 
 ### 🚀 Interests <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="20" />
 ```bash
-$ explore "Full-stack development, Theoretical Computer Science, Cyber Security "
+$ explore "Full-stack development, Computer Science, Cyber Security "
 $ hobby "Read 📚, Sketch 🎨, Words ✍️"
 ```
 
 ### 🔧 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="25" />
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,html,css,bootstrap" /> <img src="https://skillicons.dev/icons?i=git,github" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,html,css,bootstrap" /> <img src="https://skillicons.dev/icons?i=git,github" /> <!--<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />-->
 
 ### 📊 Stats:  ![](https://komarev.com/ghpvc/?username=flurry101&color=7676FF)
 
