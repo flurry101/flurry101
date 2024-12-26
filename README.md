@@ -25,7 +25,7 @@ $ hobby "Read 📚, Sketch 🎨, Words ✍️"
 ---
 
 ###  📫 Let's Connect  
-[GitHub](https://github.com/flurry101) <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="15" /> [Email](mailto:m3l0dy.144@gmail.com) 
+[GitHub](https://github.com/flurry101)<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="15" />[Email](mailto:m3l0dy.144@gmail.com) 
 
 ---
 
@@ -46,4 +46,4 @@ $ github-profile-stats --user=flurry101
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
