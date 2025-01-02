@@ -17,10 +17,13 @@ $ echo "Practicing Problem-Solving"
 ```bash
 $ explore "Full-stack development, Cyber Security"
 $ hobby "Read 📚, Sketch 🎨, Words ✍️"
+$ ask me about "Python 🐍, MySQL 🐋"
 ```
 
 ### 🔧 Tech Stack  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="teacup" width="25" />  
 <img src="https://skillicons.dev/icons?i=python,mysql,c,html,css,bootstrap" />  <img src="https://skillicons.dev/icons?i=git,github" />  
+
+
 
 ---
 
