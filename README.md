@@ -2,7 +2,7 @@
 
 ## About Me ✨  
 
-<div align="left"><blockquote>CS Undergrad <img src=".png" alt="Handshake" width="15" /> Aspiring Developer</blockquote>
+<div align="left"><blockquote>CS Undergrad | Aspiring Developer</blockquote>
   
 <h3>💡 What am I up to?</h3>
 
