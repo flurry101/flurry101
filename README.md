@@ -7,7 +7,7 @@
 <h3>💡 What am I up to?</h3>
 
 ```bash
-$ echo "Currently learning many things, with a focus on JavaScript and different aspects of working with data." 
+$ echo "Currently learning many things, with a focus on JavaScript." 
 $ echo "Practicing Problem-Solving and DSA"
 ```
 
