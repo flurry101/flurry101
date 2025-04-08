@@ -1,4 +1,4 @@
-# Hello, World! 👨‍💻  ![Profile Views](https://komarev.com/ghpvc/?username=flurry101&color=7676FF)
+# Hello, World! 👨‍💻  
 
 ```bash
 $ profile-stats --user=flurry101 
@@ -42,6 +42,7 @@ $ echo "Practicing Problem-Solving and DSA"
 $ echo "Exploring full-stack development and open-source 🕸️"
 $ hobby "Read 📚, Sketch 🎨, Words ✍️"
 ```
+![Profile Views](https://komarev.com/ghpvc/?username=flurry101&color=7676FF)
 
 
 ### 🔧 I code with <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="teacup" width="25" />  
