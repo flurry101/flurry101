@@ -3,7 +3,7 @@
 <div align="left">
 
 ```ruby
-● ● ● flurry101@github:~$ statview --user sravya
+● ● ● flurry101@github:~$ statview --user flurry101
 ```
 
 <table>
